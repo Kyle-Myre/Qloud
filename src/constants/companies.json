@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Jira Software",
+      "logo": "/jira.png",
+      "description": "Jira Software is a project management tool used by agile teams to plan, track, and manage software development. It helps streamline workflows and improve team collaboration."
+    },
+    {
+      "name": "Microsoft",
+      "logo": "/microsoft.png",
+      "description": "Microsoft is a global leader in software, services, devices, and solutions. They are best known for products like Windows, Office, and their Azure cloud platform."
+    },
+    {
+      "name": "Spotify",
+      "logo": "/spotify.png",
+      "description": "Spotify is a popular music streaming service offering a wide range of songs, podcasts, and playlists, personalized to user preferences."
+    },
+    {
+      "name": "Apple Inc.",
+      "logo": "/apple.png",
+      "description": "Apple Inc. is a leading technology company, known for innovative products like the iPhone, Mac computers, Apple Watch, and its range of software and services."
+    }
+  ]
+  

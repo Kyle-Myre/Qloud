@@ -1,0 +1,20 @@
+[
+  {
+    "reversed": false,
+    "title": "Scalability at Your Fingertips",
+    "image": "/server.jpg",
+    "description": "With Q Cloud Provider, scale your infrastructure effortlessly to meet changing business needs. Whether you're handling traffic spikes or scaling down during off-peak hours, Q Cloud’s flexible resource allocation ensures you only pay for what you use, optimizing both performance and cost efficiency."
+  },
+  {
+    "reversed": true,
+    "title": "Uncompromising Security & Compliance",
+    "image": "/team.jpg",
+    "description": "Q Cloud Provider places the highest priority on your data’s security, offering enterprise-grade encryption, identity management, and compliance with global standards like GDPR, HIPAA, and SOC. Rest assured, your sensitive data is safe and your business remains fully compliant with industry regulations."
+  },
+  {
+    "reversed": false,
+    "title": "99.99% Uptime & Reliability",
+    "image": "/code.jpg",
+    "description": "Built for mission-critical applications, Q Cloud Provider guarantees 99.99% uptime across its network of geographically distributed data centers. With automatic failover and load balancing, your business can rely on continuous, uninterrupted service, ensuring high availability and performance around the clock."
+  }
+]

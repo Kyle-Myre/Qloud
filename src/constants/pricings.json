@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Starter Plan",
+      "price": "29",
+      "target": "Small businesses and startups",
+      "memory": "2",
+      "storage": "50",
+      "transfer": "1",
+      "support": "Basic email support (Response within 48 hours)",
+      "uptime": "99.9%",
+      "description": "This plan is perfect for small businesses or developers just getting started with cloud infrastructure. It offers a cost-effective solution for running lightweight applications and websites."
+    },
+    {
+      "name": "Business Plan",
+      "price": "99",
+      "target": "Growing companies with moderate to high resource needs",
+      "memory": "8",
+      "storage": "200",
+      "transfer": "5",
+      "support": "Priority email & chat support (Response within 24 hours)",
+      "uptime": "99.95%",
+      "description": "This plan is designed for growing businesses that require more robust cloud services, including increased compute power, security features, and faster support. It's perfect for medium-sized companies or teams running e-commerce platforms, internal apps, or SaaS products."
+    },
+    {
+      "name": "Enterprise Plan",
+      "price": "499",
+      "target": "Large businesses and enterprises with complex cloud needs",
+      "memory": "32",
+      "storage": "1024",
+      "transfer": "20",
+      "support": "24/7 premium support with dedicated account manager",
+      "uptime": "99.99%",
+      "description": "This plan is tailored for large enterprises or high-traffic applications that require superior performance, maximum uptime, and top-tier security. It includes advanced features like disaster recovery and load balancing for mission-critical workloads."
+    }
+  ]
+  
