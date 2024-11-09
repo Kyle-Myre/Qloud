@@ -6,13 +6,13 @@ export default function Hero() {
           Work Efficently & Easily
         </h1>
         <p className="lg:text-justify text-center lg:text-xl/8 font-geist text-white font-semibold">
-          Q Cloud Services empowers your business with flexible and scalable
-          cloud solutions. Manage your resources effortlessly with Q’s
+          Qloud Cloud Services empowers your business with flexible and scalable
+          cloud solutions. Manage your resources effortlessly with Qloud’s
           user-friendly interface, designed for streamlined operations and
-          cost-effective scaling. With Q, you’ll experience top-tier security,
+          cost-effective scaling. With Qloud, you’ll experience top-tier security,
           reliable data storage, and a suite of tools that adapt to your unique
           needs, ensuring you stay ahead in a rapidly evolving digital
-          landscape. Make your work seamless and efficient with Q, where
+          landscape. Make your work seamless and efficient with Qloud, where
           technology meets simplicity and performance.
         </p>
         <div className="font-open-sans flex flex-row lg:justify-start justify-center">

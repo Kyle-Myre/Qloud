@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="lg:px-20 px-5 py-4 backdrop-blur-md fixed w-full">
       <section className="flex items-center font-monsterate">
         <section className="flex-1">
-          <h1 className="lg:text-4xl text-2xl text-black font-semibold">Q.</h1>
+          <h1 className="lg:text-4xl text-2xl text-black font-semibold">Qloud.</h1>
         </section>
         <section className="text-black font-semibold flex-1 lg:flex lg:justify-around lg:text-xl lg:gap-6 hidden">
           <a className="py-2 ">About</a>
